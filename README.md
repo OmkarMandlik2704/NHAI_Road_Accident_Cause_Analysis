@@ -18,8 +18,8 @@ Power BI: For interactive dashboards and data visualization.
 
 3. Why It Matters
 By identifying accident-prone zones and key risk factors, this project helps:
- 1. Improve highway safety regulations.
- 2. Optimize policing and traffic enforcement.
- 3. Enhance emergency response strategies.
+ i. Improve highway safety regulations.
+ ii. Optimize policing and traffic enforcement.
+ iii. Enhance emergency response strategies.
 
 This analysis aims to contribute to safer roads by providing data-driven insights for policymakers, traffic authorities, and road safety organizations.
